@@ -1,0 +1,19 @@
+
+.connect{
+    width: 400px;
+    height: 300px;
+    padding: 50px;
+    background-color: grey;
+}
+.connect__btn {
+    width: 330px;
+    height: 50px;
+    margin: 0 auto;
+    display: block;
+}
+
+
+
+
+
+
